@@ -1,0 +1,5 @@
+groq
+gradio
+openai-whisper
+gTTS
+PyPDF2
